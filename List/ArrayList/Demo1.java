@@ -5,8 +5,8 @@ class Demo1
 	{
 		ArrayList<String> al=new ArrayList<>();
 		
-		al.add("Ram");
-		al.add("Ram");
+		al.add("Shyam");
+		al.add("Sita");
 		al.add("Ram");
 		al.add("Ram");
 		
